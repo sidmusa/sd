@@ -1,6 +1,4 @@
 [submodule "themes/after-dark"]
 	path = themes/after-dark
 	url = https://github.com/comfusion/after-dark.git
-[submodule "themes/hugo-dusk"]
-	path = themes/hugo-dusk
-	url = https://github.com/gyorb/hugo-dusk.git
+
